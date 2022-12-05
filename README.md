@@ -3,15 +3,16 @@
 ## Firmware - iodd_firm_upd
 
 iodd_firm_upd is the latest firmware updater
-
+```
 Model		The latest version
 IODD-2531	R1600	0.1.0.13
-IODD-2541	R86		0.1.0.13
-IODD-3544	R81		0.1.0.13
-IODD-MINI	R68		0.1.0.13
+IODD-2541	R86	0.1.0.13
+IODD-3544	R81	0.1.0.13
+IODD-MINI	R68	0.1.0.13
 IODD-ST400	76-1	0.7.6.1
 IODD-ST300	74-4	0.7.4.4
 IODD-LK100	76-1	0.7.6.1
+```
 
 ### download
 http://dir.iodd.kr/
